@@ -6,7 +6,7 @@ Este repositorio consiste en crear un sitio web dedicado al mundo cinematográfi
 
 El sitio web permite buscar y filtrar películas utilizando diferentes criterios. El proyecto incluye la creación de una base de datos con dos tablas:
 
-- **películas**: Contiene información sobre el título, año de estreno y director de las películas.
+- **peliculas**: Contiene información sobre el título, año de estreno y director de las películas.
 - **reparto**: Contiene información sobre los actores que aparecen en las películas.
 
 ### Requerimientos del desafío
